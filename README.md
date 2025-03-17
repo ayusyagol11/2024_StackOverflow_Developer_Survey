@@ -3,6 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://python.org)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org)
 [![Plotly](https://img.shields.io/badge/Visualization-Plotly-green)](https://plotly.com)
+[![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-green)](https://matplotlib.org/)
 
 Welcome to the **2024 Stack Overflow Developer Survey Analysis!** In this project, we explore **developer trends, technology adoption, AI integration, and job satisfaction** using insights from over **65,000 developers worldwide**.  
 
@@ -108,22 +109,8 @@ The **Stack Overflow Developer Survey** is one of the **largest** and **most com
 
 📊 **Word Cloud of Developer Frustrations**  
 
-```python
-from wordcloud import WordCloud
-import matplotlib.pyplot as plt
 
-frustrations_text = " ".join(df["Frustration"].dropna())
-wordcloud = WordCloud(width=800, height=400, background_color="white", colormap="coolwarm").generate(frustrations_text)
-
-plt.figure(figsize=(12, 6))
-plt.imshow(wordcloud, interpolation="bilinear")
-plt.axis("off")
-plt.title("Biggest Developer Frustrations")
-plt.show()
-```
-
-
-⸻
+---
 
 ### **5️⃣ Stack Overflow Usage & Learning Trends**
 
@@ -135,7 +122,7 @@ plt.show()
 - 50% visit daily or multiple times per day.
 - Some rely on private documentation instead.
 
-⸻
+---
 
 ### **💡 Conclusion & Insights**
 
@@ -145,7 +132,7 @@ plt.show()
 ✅ Developers face major challenges with tight deadlines & outdated code.
 ✅ Stack Overflow & online courses are still essential learning resources.
 
-⸻
+---
 
 ### **📌 How to Use This Project?**
 
@@ -160,7 +147,7 @@ plt.show()
 3. Run jupyter notebook and open the .ipynb file
 4. Execute the cells to see the analysis
 
-⸻
+---
 
 ### **🎯 Next Steps**
 
@@ -170,6 +157,6 @@ plt.show()
 
 🔹 Compare 2024 data with previous years to identify trends.
 
-⸻
+---
 
 🔥 Thank you for exploring this project! Let me know if you have any suggestions or improvements! 🚀
