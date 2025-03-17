@@ -1,6 +1,3 @@
-Here’s a polished, recruiter-friendly `README.md` for your GitHub project. It highlights technical depth, storytelling, and business impact:
-
-```markdown
 # 📊 2024 Stack Overflow Developer Survey Analysis  
 **Unlocking Insights into AI Adoption, Salary Trends, and Developer Productivity**  
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://python.org)
@@ -22,7 +19,6 @@ This analysis transforms raw survey data from **65,000+ developers** into action
 - **Deployment**: Streamlit ([Live Dashboard](https://your-dashboard-url.com))  
 
 ## 📂 Project Structure
-```
 project-root/
 ├── data/                   # Raw and cleaned datasets
 │   ├── survey_results_public.csv
@@ -35,7 +31,6 @@ project-root/
 ├── streamlit_app.py        # Interactive dashboard
 ├── requirements.txt        # Dependency list
 └── README.md
-```
 
 ## 🔍 Key Analyses (with Code Samples)
 
