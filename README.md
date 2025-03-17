@@ -9,7 +9,7 @@ Welcome to the **2024 Stack Overflow Developer Survey Analysis!** In this projec
 
 Through **data cleaning, exploratory analysis, and visualization**, we uncover key insights into how developers work, learn, and interact with AI & Stack Overflow.  
 
-![Programming Languages Chart](https://upload.wikimedia.org/wikipedia/commons/6/6a/Bar_chart.png)  
+![Distribution Plots](https://github.com/ayusyagol11/youtube-api-analysis/blob/master/Plots/1.DistributionofViews%2Clikesandcomments.png?raw=true)
 
 ---
 
@@ -160,3 +160,9 @@ The **Stack Overflow Developer Survey** is one of the **largest** and **most com
 ---
 
 🔥 Thank you for exploring this project! Let me know if you have any suggestions or improvements! 🚀
+
+---
+
+Created by **Aayush Yagol**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/aayush-yagol-046874145/)
+[![Porfolio](https://img.shields.io/badge/Portfolio-Black)](https://www.aayushyagol.com)
