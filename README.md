@@ -9,25 +9,12 @@ Welcome to the **2024 Stack Overflow Developer Survey Analysis!** In this projec
 
 Through **data cleaning, exploratory analysis, and visualization**, we uncover key insights into how developers work, learn, and interact with AI & Stack Overflow.  
 
-![Distribution Plots](https://github.com/ayusyagol11/youtube-api-analysis/blob/master/Plots/1.DistributionofViews%2Clikesandcomments.png?raw=true)
-
----
-
-## **📖 Table of Contents**  
-1️⃣ [Introduction](#introduction)  
-2️⃣ [Dataset Overview](#dataset-overview)  
-3️⃣ [Data Cleaning & Preprocessing](#data-cleaning--preprocessing)  
-4️⃣ [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)  
-5️⃣ [Answering Key Questions](#answering-key-questions)  
-6️⃣ [Conclusion & Insights](#conclusion--insights)  
-7️⃣ [How to Use This Project](#how-to-use-this-project)  
-
 ---
 
 ## **📝 Introduction**  
 
 ### **Why This Project?**  
-The **Stack Overflow Developer Survey** is one of the **largest** and **most comprehensive** datasets on software development. By analyzing this dataset, we can:  
+The **Stack Overflow Developer Survey** is one of the **largest** and **most comprehensive** datasets on software development. By analysing this dataset, we can:  
 ✅ Identify the **most popular programming languages** & tools.  
 ✅ Understand how **AI is shaping developer workflows**.  
 ✅ Explore **salary trends & job satisfaction**.  
