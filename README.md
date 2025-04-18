@@ -63,7 +63,7 @@ The **Stack Overflow Developer Survey** is one of the **largest** and **most com
 ### **1️⃣ Developer Demographics**  
 📌 **Age Distribution**  
 - Most developers are aged **18-34 years**.  
-- **Fer older developers**, showing **a younger workforce in tech**.  
+- **For older developers**, showing **a younger workforce in tech**.  
 
 📊 **Education Level**  
 - Majority hold a **Bachelor’s or Master’s degree** 🎓  
