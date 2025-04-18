@@ -5,9 +5,9 @@
 [![Plotly](https://img.shields.io/badge/Visualization-Plotly-green)](https://plotly.com)
 [![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-green)](https://matplotlib.org/)
 
-Welcome to the **2024 Stack Overflow Developer Survey Analysis!** In this project, we explore **developer trends, technology adoption, AI integration, and job satisfaction** using insights from over **65,000 developers worldwide**.  
+Welcome to the **2024 Stack Overflow Developer Survey Analysis!** In this project, I explore **developer trends, technology adoption, AI integration, and job satisfaction** using insights from over **65,000 developers worldwide**.  
 
-Through **data cleaning, exploratory analysis, and visualization**, we uncover key insights into how developers work, learn, and interact with AI & Stack Overflow.  
+Through **data cleaning, exploratory analysis, and visualization**, I uncover key insights into how developers work, learn, and interact with AI & Stack Overflow.  
 
 ---
 
@@ -63,7 +63,7 @@ The **Stack Overflow Developer Survey** is one of the **largest** and **most com
 ### **1️⃣ Developer Demographics**  
 📌 **Age Distribution**  
 - Most developers are aged **18-34 years**.  
-- **Fewer older developers**, showing **a younger workforce in tech**.  
+- **Fer older developers**, showing **a younger workforce in tech**.  
 
 📊 **Education Level**  
 - Majority hold a **Bachelor’s or Master’s degree** 🎓  
@@ -83,7 +83,7 @@ The **Stack Overflow Developer Survey** is one of the **largest** and **most com
 
 ### **3️⃣ AI Usage & Trust in AI**  
 📌 **AI Integration in Development**  
-- **75% of developers** use **AI-powered tools** (ChatGPT, Copilot).  
+- **75% of developers** use **AI-pored tools** (ChatGPT, Copilot).  
 - **Trust in AI varies**—some rely on AI, others are skeptical.  
 - Some developers worry AI will **replace jobs** 🤖💼  
 
