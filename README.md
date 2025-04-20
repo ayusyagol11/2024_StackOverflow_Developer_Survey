@@ -87,8 +87,8 @@ The **Stack Overflow Developer Survey** is one of the **largest** and **most com
 
 ### **3️⃣ AI Usage & Trust in AI**  
 📌 **AI Integration in Development**  
-![Education Level Distribution of Developers](https://github.com/ayusyagol11/2024_StackOverflow_Developer_Survey/blob/main/chart_images/Education%Level%Distribution%of%Developers.png)
-- **75% of developers** use **AI-pored tools** (ChatGPT, Copilot).  
+![Developers using AI in their workflow](https://github.com/ayusyagol11/2024_StackOverflow_Developer_Survey/blob/main/chart_images/developers-using-AI-in-their-workflow.png)
+- **75% of developers** use **AI-powred tools** (ChatGPT, Copilot).  
 - **Trust in AI varies**—some rely on AI, others are skeptical.  
 - Some developers worry AI will **replace jobs** 🤖💼  
 
@@ -96,7 +96,7 @@ The **Stack Overflow Developer Survey** is one of the **largest** and **most com
 
 ### **4️⃣ Developer Frustrations & Productivity Challenges**  
 📌 **Top Challenges Faced**  
-![Education Level Distribution of Developers](https://github.com/ayusyagol11/2024_StackOverflow_Developer_Survey/blob/main/chart_images/Education%Level%Distribution%of%Developers.png)
+![Challenges developers face](https://github.com/ayusyagol11/2024_StackOverflow_Developer_Survey/blob/main/chart_images/Biggest%20Challenges%20Developers%20Face%20in%20the%20Workplace.png)
 - **"Poor documentation", "tight deadlines", "legacy code"** are common frustrations.  
 - Many developers spend **30-60 mins daily** searching for solutions.  
 
@@ -108,12 +108,12 @@ The **Stack Overflow Developer Survey** is one of the **largest** and **most com
 ### **5️⃣ Stack Overflow Usage & Learning Trends**
 
 📌 **How Developers Learn?**
-![Education Level Distribution of Developers](https://github.com/ayusyagol11/2024_StackOverflow_Developer_Survey/blob/main/chart_images/Education%Level%Distribution%of%Developers.png)
+![Top Learning methods among developers](https://github.com/ayusyagol11/2024_StackOverflow_Developer_Survey/blob/main/chart_images/top-learning-methods-among-developers.png)
 - Most rely on Stack Overflow, online courses, and documentation 📚
 - AI-powered learning tools are growing in adoption.
 
 📌 **How Often Do Developers Visit Stack Overflow?**
-![Education Level Distribution of Developers](https://github.com/ayusyagol11/2024_StackOverflow_Developer_Survey/blob/main/chart_images/Education%Level%Distribution%of%Developers.png)
+![How often developers visit stack overflow](https://github.com/ayusyagol11/2024_StackOverflow_Developer_Survey/blob/main/chart_images/how-oftern-do-developers-visit-stack-overflow.png)
 - 50% visit daily or multiple times per day.
 - Some rely on private documentation instead.
 
