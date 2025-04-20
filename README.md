@@ -121,7 +121,7 @@ The **Stack Overflow Developer Survey** is one of the **largest** and **most com
 
 ### **💡 Conclusion & Insights**
 
-✅ AI is transforming development but trust in AI remains mixed.
+✅ AI is transforming development, but trust in AI remains mixed.
 ✅ Python, JavaScript, and SQL remain dominant, but Rust & TypeScript are the future.
 ✅ Salaries increase with experience but plateau after 20+ years.
 ✅ Developers face major challenges with tight deadlines & outdated code.
