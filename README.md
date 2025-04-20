@@ -67,7 +67,7 @@ The **Stack Overflow Developer Survey** is one of the **largest** and **most com
 - **For older developers**, showing **a younger workforce in tech**.  
 
 📊 **Education Level** 
-![Education Level Distribution of Developers](https://github.com/ayusyagol11/2024_StackOverflow_Developer_Survey/blob/main/chart_images/Education%Level%Distribution%of%Developers.png)
+![Education Level Distribution of Developers](https://github.com/ayusyagol11/2024_StackOverflow_Developer_Survey/blob/main/chart_images/Education%20Level%20Distribution%20of%20Developers.png)
 - Majority hold a **Bachelor’s or Master’s degree** 🎓  
 - Some **self-taught** developers & bootcamp graduates.  
 
@@ -75,12 +75,12 @@ The **Stack Overflow Developer Survey** is one of the **largest** and **most com
 
 ### **2️⃣ Popular Programming Languages & Frameworks**  
 📌 **Most Used Languages**  
-![Top 10 Most Used Programming Languages](https://github.com/ayusyagol11/2024_StackOverflow_Developer_Survey/blob/main/chart_images/Top%10%Most%Used%Programming%Languages.png)
+![Top 10 Most Used Programming Languages](https://github.com/ayusyagol11/2024_StackOverflow_Developer_Survey/blob/main/chart_images/Top%2010%20Most%20Used%20Programming%20Languages.png)
 - **Python, JavaScript, and SQL** remain the top languages.  
 - **Rust, Go, and TypeScript** are gaining popularity.  
 
 📌 **Most Wanted Languages**  
-![Top 10 Most Desired Programming Languages](https://github.com/ayusyagol11/2024_StackOverflow_Developer_Survey/blob/main/chart_images/Top%10%Most%Desired%Programming%Languages.png)
+![Top 10 Most Desired Programming Languages](https://github.com/ayusyagol11/2024_StackOverflow_Developer_Survey/blob/main/chart_images/Top%2010%20Most%20Desired%20Programming%20Languages.png)
 - Developers want to learn **Rust, TypeScript, and Go**.  
 
 ---
