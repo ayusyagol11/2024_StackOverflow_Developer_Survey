@@ -61,12 +61,14 @@ The **Stack Overflow Developer Survey** is one of the **largest** and **most com
 ## **📈 Exploratory Data Analysis (EDA)**  
 
 ### **1️⃣ Developer Demographics**  
-📌 **Age Distribution**  
+📌 **Age Distribution**
+
 ![Age Distribution of Developers](https://github.com/ayusyagol11/2024_StackOverflow_Developer_Survey/blob/main/chart_images/Age%20Distribution%20of%20Developers.png)
 - Most developers are aged **18-34 years**.  
 - **For older developers**, showing **a younger workforce in tech**.  
 
-📊 **Education Level** 
+📌 **Education Level** 
+
 ![Education Level Distribution of Developers](https://github.com/ayusyagol11/2024_StackOverflow_Developer_Survey/blob/main/chart_images/Education%20Level%20Distribution%20of%20Developers.png)
 - Majority hold a **Bachelor’s or Master’s degree** 🎓  
 - Some **self-taught** developers & bootcamp graduates.  
@@ -75,11 +77,13 @@ The **Stack Overflow Developer Survey** is one of the **largest** and **most com
 
 ### **2️⃣ Popular Programming Languages & Frameworks**  
 📌 **Most Used Languages**  
+
 ![Top 10 Most Used Programming Languages](https://github.com/ayusyagol11/2024_StackOverflow_Developer_Survey/blob/main/chart_images/Top%2010%20Most%20Used%20Programming%20Languages.png)
 - **Python, JavaScript, and SQL** remain the top languages.  
 - **Rust, Go, and TypeScript** are gaining popularity.  
 
 📌 **Most Wanted Languages**  
+
 ![Top 10 Most Desired Programming Languages](https://github.com/ayusyagol11/2024_StackOverflow_Developer_Survey/blob/main/chart_images/Top%2010%20Most%20Desired%20Programming%20Languages.png)
 - Developers want to learn **Rust, TypeScript, and Go**.  
 
@@ -87,6 +91,7 @@ The **Stack Overflow Developer Survey** is one of the **largest** and **most com
 
 ### **3️⃣ AI Usage & Trust in AI**  
 📌 **AI Integration in Development**  
+
 ![Developers using AI in their workflow](https://github.com/ayusyagol11/2024_StackOverflow_Developer_Survey/blob/main/chart_images/developers-using-AI-in-their-workflow.png)
 - **75% of developers** use **AI-powred tools** (ChatGPT, Copilot).  
 - **Trust in AI varies**—some rely on AI, others are skeptical.  
@@ -96,6 +101,7 @@ The **Stack Overflow Developer Survey** is one of the **largest** and **most com
 
 ### **4️⃣ Developer Frustrations & Productivity Challenges**  
 📌 **Top Challenges Faced**  
+
 ![Challenges developers face](https://github.com/ayusyagol11/2024_StackOverflow_Developer_Survey/blob/main/chart_images/Biggest%20Challenges%20Developers%20Face%20in%20the%20Workplace.png)
 - **"Poor documentation", "tight deadlines", "legacy code"** are common frustrations.  
 - Many developers spend **30-60 mins daily** searching for solutions.  
@@ -108,11 +114,13 @@ The **Stack Overflow Developer Survey** is one of the **largest** and **most com
 ### **5️⃣ Stack Overflow Usage & Learning Trends**
 
 📌 **How Developers Learn?**
+
 ![Top Learning methods among developers](https://github.com/ayusyagol11/2024_StackOverflow_Developer_Survey/blob/main/chart_images/top-learning-methods-among-developers.png)
 - Most rely on Stack Overflow, online courses, and documentation 📚
 - AI-powered learning tools are growing in adoption.
 
 📌 **How Often Do Developers Visit Stack Overflow?**
+
 ![How often developers visit stack overflow](https://github.com/ayusyagol11/2024_StackOverflow_Developer_Survey/blob/main/chart_images/how-oftern-do-developers-visit-stack-overflow.png)
 - 50% visit daily or multiple times per day.
 - Some rely on private documentation instead.
